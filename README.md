@@ -29,7 +29,7 @@ var signum = require( 'math-signum' );
 
 #### signum( x )
 
-Evaluates the [signum][signum] function.
+Evaluates the [Signum][signum] function.
 
 ``` javascript
 var sign = signum( -5 );
