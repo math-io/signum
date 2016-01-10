@@ -4,7 +4,7 @@ Signum
 
 > [Signum][signum] function.
 
-The [signum][signum] `function` is defined as
+The [signum][signum] function is defined as
 
 <div class="equation" align="center" data-raw-text="\operatorname{sign}(x) := \begin{cases} -1 &amp; \textrm{if}\ x < 0 \\ 0 &amp; \textrm{if}\ x = 0 \\ 1 &amp; \textrm{if}\ x > 0 \end{cases}" data-equation="eq:signum_function">
 	<img src="https://cdn.rawgit.com/math-io/signum/ec73644e91efe6a321261458c55bbd727bb6b38d/docs/img/eqn.svg" alt="Signum function definition.">
